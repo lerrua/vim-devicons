@@ -259,7 +259,7 @@ function! s:setDictionaries()
         \ 'cljs'     : '',
         \ 'edn'      : '',
         \ 'scala'    : '',
-        \ 'go'       : '',
+        \ 'go'       : '',
         \ 'dart'     : '',
         \ 'xul'      : '',
         \ 'sln'      : '',
